@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Houssem
 
 I’m a **self-taught software engineer** and long-time **aviation operations specialist** based in Tunisia.  
-For 16 years I worked as a ramp dispatcher and load master in a high-pressure, real-time environment — and for the last couple of years I’ve been building software to automate that work.
+For 16 years I worked as a ramp dispatcher and load master in a high-pressure, real-time environment — and during the last year I’ve been building software to automate that work.
 
 I don’t have a CS degree; instead, I’ve spent my life in front of a computer, learning by doing and using **AI-assisted development** to move fast and ship real tools.
 
